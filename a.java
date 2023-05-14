@@ -3,7 +3,7 @@ class a
 {
 public int add(int a,int b)
 {
-int c=a+b;
+int c=a+b;hghgh
 
 }
 public int p(int a)
