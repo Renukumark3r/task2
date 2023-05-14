@@ -3,25 +3,8 @@ class a
 {
 public int add(int a,int b)
 {
-int c=a+b;
-return c;
-}
-public void sub(int a,int b)
-{
-System.out.println(a-b);
-}
-public void mat()
-{
-int a=5;
-int b=5;
-System.out.println(a+b);
-}
-public void pri(int a)
-{
-if(a%2==0)
-System.out.println("even");
-else
-System.out.println("odd");
+int c=a+b;hghgh
+
 }
 public int p(int a)
 {
